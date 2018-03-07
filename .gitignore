@@ -53,3 +53,34 @@ google-services.json
 freeline.py
 freeline/
 freeline_project_description.json
+
+Manager.getInstance().initialize(
+    "dGVzdGgKAtNBeaAMBC1axxIY7j7v2bC10CYz84mvH+weFT+dXk9zoXmxHWeiDLm1Xu3lWKiISHbST4dSNTnkHYwcCUBG0atNfMIK8jZTi7FWGRcm69rH2bMlwo+aks/sg9tSMopL4K4aDea3w6l+97Y5SM5Csw73Oll4POb11opicjCu+WllDedqqYq6ai+b0i0cE+IyubP/",
+    "fZMeQC5Fa8qkD9yscwumIxIt2xg4Xlr1r0s4aomR6j0=",
+    "mOGIdddryYyt6DsDvHBORkXJasg4BhjrFwVTNJPug6QVtIFLZa2+Q+HKeu8B+bp0okxo0KRicYGWVYZITWbvDg==",
+    getApplicationContext()
+);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
